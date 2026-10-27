@@ -1,30 +1,37 @@
-# Tabuada em JavaScript
+# ✖️ Tabuada
 
-## Sobre o projeto
+Aplicação web desenvolvida para praticar estruturas de repetição e manipulação do DOM com JavaScript. O usuário informa um número e a aplicação gera sua tabuada de 1 a 10.
 
-Este projeto foi desenvolvido durante meus estudos de JavaScript, com base nos exercícios do curso de Gustavo Guanabara. A aplicação gera a tabuada de um número informado pelo usuário.
+## 🚀 Acessar projeto
 
-## Funcionalidades
+[▶️ Testar a Tabuada online](https://apolinariojuliana.github.io/exercicios-javascript/exercicio-02-tabuada/)
 
-- Receber um número digitado pelo usuário.
-- Gerar a tabuada de 1 a 10.
-- Exibir os resultados em uma lista.
-- Verificar se o campo foi preenchido antes de gerar a tabuada.
+## ✨ Funcionalidades
 
-## Tecnologias utilizadas
+- Receber um número informado pelo usuário.
+- Gerar automaticamente a tabuada de 1 a 10.
+- Exibir os resultados na página.
+- Informar ao usuário quando o campo está vazio.
+
+## 🛠️ Tecnologias utilizadas
 
 - HTML5
 - CSS3
 - JavaScript
 
-## Aprendizados
+## 📚 Conceitos praticados
 
-Durante o desenvolvimento, pratiquei funções, conversão de valores numéricos, estruturas condicionais, laços de repetição (`while`), criação de elementos HTML e manipulação do DOM.
+- Laços de repetição (`while`).
+- Funções.
+- Condições e validação de dados.
+- Conversão de valores com `Number()`.
+- Manipulação do DOM.
+- Criação dinâmica de elementos HTML.
 
-## Como executar
+## 🎯 Objetivo
 
-Abra o arquivo `index.html` em um navegador, digite um número e clique em **Gerar Tabuada**.
+Desenvolver a lógica necessária para gerar cálculos automaticamente e apresentar os resultados de forma interativa.
 
-## Créditos
+## 👩‍💻 Autoria
 
-Exercício baseado nos estudos de JavaScript do curso de Gustavo Guanabara.
+Projeto desenvolvido durante meus estudos de programação.
