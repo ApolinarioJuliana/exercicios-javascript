@@ -1,30 +1,37 @@
-# Contador em JavaScript
+# 🔢 Contador
 
-## Sobre o projeto
+Aplicação web desenvolvida para praticar lógica de programação com JavaScript. Permite realizar contagens crescentes e decrescentes de acordo com os valores informados pelo usuário.
 
-Este projeto foi desenvolvido durante meus estudos de JavaScript, com base nos exercícios do curso de Gustavo Guanabara. O objetivo é praticar estruturas de repetição, funções e manipulação do DOM.
+## 🚀 Acessar projeto
 
-## Funcionalidades
+[▶️ Testar o Contador online](https://apolinariojuliana.github.io/exercicios-javascript/exercicio-01-contador/)
 
-- Informar o início e o fim da contagem.
-- Definir o passo da contagem.
-- Realizar contagens crescentes e decrescentes.
-- Validar os campos e tratar passos inválidos.
+## ✨ Funcionalidades
 
-## Tecnologias utilizadas
+- Definir o início e o fim da contagem.
+- Escolher o passo da contagem.
+- Realizar contagens crescentes ou decrescentes.
+- Validar os dados informados pelo usuário.
+
+## 🛠️ Tecnologias utilizadas
 
 - HTML5
 - CSS3
 - JavaScript
 
-## Aprendizados
+## 📚 Conceitos praticados
 
-Durante o desenvolvimento, pratiquei variáveis, condições, estruturas de repetição (`for`), funções e interação entre JavaScript e HTML.
+- Estruturas condicionais (`if` e `else`).
+- Laços de repetição.
+- Funções.
+- Manipulação do DOM.
+- Entrada e validação de dados.
 
-## Como executar
+## 🎯 Objetivo
 
-Abra o arquivo `index.html` em um navegador e informe os valores para iniciar a contagem.
+Praticar os fundamentos de JavaScript e desenvolver uma aplicação interativa para o navegador.
 
-## Créditos
+## 👩‍💻 Autoria
 
-Exercício baseado nos estudos de JavaScript do curso de Gustavo Guanabara.
+Projeto desenvolvido durante meus estudos de programação.
+
