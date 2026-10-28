@@ -4,7 +4,7 @@ Aplicação web desenvolvida para praticar estruturas de repetição e manipula�
 
 ## 🚀 Acessar projeto
 
-[▶️ Testar a Tabuada online](https://apolinariojuliana.github.io/exercicios-javascript/exercicio-02-tabuada/)
+[▶️ Testar a Tabuada online]([https://apolinariojuliana.github.io/exercicios-javascript/exercicio-02-tabuada/](https://apolinariojuliana.github.io/exercicios-javascript/exercicio-02-tabuada/?utm_source=chatgpt.com))
 
 ## ✨ Funcionalidades
 
