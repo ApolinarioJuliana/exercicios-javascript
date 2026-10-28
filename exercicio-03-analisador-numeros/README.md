@@ -1,38 +1,44 @@
-# Analisador de Números
+# 📊 Analisador de Números
 
-## Sobre o projeto
+Aplicação web que permite adicionar números entre 1 e 100 e analisar os valores inseridos, apresentando estatísticas calculadas com JavaScript.
 
-Este projeto foi desenvolvido durante meus estudos de JavaScript, com base nos exercícios do curso de Gustavo Guanabara. A aplicação permite cadastrar números e calcular estatísticas sobre os valores informados.
+## 🚀 Acessar projeto
 
-## Funcionalidades
+[▶️ Testar o Analisador de Números online](https://apolinariojuliana.github.io/exercicios-javascript/exercicio-03-analisador-numeros/)
+
+## ✨ Funcionalidades
 
 - Adicionar números entre 1 e 100.
-- Impedir o cadastro de números repetidos.
-- Exibir os números cadastrados em uma lista.
-- Identificar a quantidade de números informados.
-- Encontrar o maior e o menor valor.
-- Calcular a soma e a média dos números.
+- Impedir a inclusão de números duplicados.
+- Exibir os números adicionados em uma lista.
+- Calcular a quantidade de números cadastrados.
+- Identificar o maior e o menor valor.
+- Calcular a soma e a média dos valores.
 
-## Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 - HTML5
 - CSS3
 - JavaScript
 
-## Evolução do projeto
+## 📚 Conceitos praticados
 
-A versão inicial utilizava um CSS simples. Posteriormente, aprimorei a interface com um layout mais moderno, fundo claro, seção centralizada, cantos arredondados, sombras suaves e ajustes para telas menores.
+- Arrays.
+- Funções.
+- Estruturas condicionais e laços de repetição.
+- Métodos de arrays.
+- Manipulação do DOM.
+- Validação de dados e cálculos matemáticos.
 
-O arquivo `estilo.css` contém a versão moderna utilizada pelo projeto, enquanto `estilo-antigo.css` preserva a versão anterior para comparação e registro da evolução visual.
+## 🎨 Interface
 
-## Aprendizados
+O projeto recebeu melhorias visuais com CSS para tornar a interface mais organizada e agradável. O arquivo `estilo-antigo.css` foi mantido para preservar a versão anterior da estilização.
 
-Durante o desenvolvimento, pratiquei funções, arrays, validação de dados, estruturas condicionais, laços de repetição, métodos de array e manipulação do DOM. Também exercitei a melhoria de estilos com CSS.
+## 🎯 Objetivo
 
-## Como executar
+Praticar o armazenamento e a análise de dados em arrays, além de desenvolver uma interface interativa e aprimorar a organização do código.
 
-Abra o arquivo `index.html` em um navegador, adicione números válidos à lista e clique em **Finalizar** para visualizar as estatísticas.
+## 👩‍💻 Autoria
 
-## Créditos
+Projeto desenvolvido durante meus estudos de programação.
 
-Exercício baseado nos estudos de JavaScript do curso de Gustavo Guanabara.
