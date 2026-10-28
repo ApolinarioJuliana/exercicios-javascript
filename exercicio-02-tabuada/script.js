@@ -9,8 +9,8 @@ if (num.value.length == 0){
     tab.innerHTML = ''
     while (c <= 10){
         let item = document.createElement('option')
-        item.text= ${n} x ${c} = ${n*c}
-        item.value = tab${c} 
+        item.text = `${n} x ${c} = ${n * c}`;
+        item.value = `tab${c}`;
         tab.appendChild(item)
         c++
     }
